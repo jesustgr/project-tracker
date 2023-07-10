@@ -1,4 +1,12 @@
+body{
+    font-size: 25px;
+}
+
 .hero {
     background-color: aqua;
     text-align: center;
+}
+
+.instructionModal {
+    list-style: none;
 }
